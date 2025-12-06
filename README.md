@@ -28,14 +28,11 @@ The **FaceID Attendance & Payroll System** is a web application designed to stre
 ## Installation
 To run the application locally, follow these steps:
 
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd faceid-attendance-payroll
-   ```
+1. **Download Latest Release**:
+   Download [Latest Release on Releases Page](https://github.com/johnlcstudios/faceid-based-attendance-payroll.github.io/releases)
 
-2. **Open the HTML file**:
-   You can simply open the `index.html` file in a modern web browser that supports ES6 JavaScript and IndexedDB.
+2. **Copy Downloaded PHP File to htdocs**:
+   Copy index.php file to htdocs folder on XAMPP.
 
 3. **Enable HTTPS**:
    For face recognition features to work, serve the application over HTTPS. You can use local servers like Live Server or HTTP-server.
