@@ -1,6 +1,11 @@
 # faceid-based-attendance-monitoring-&-payroll-management-system.github.io
 FaceID Attendance &amp; Payroll: Streamline attendance/payroll with facial recognition. Manage employees, track time, process payroll, and generate reports. Secure, efficient, and easy to use.
 
+
+# [See Latest Code Release Here](https://github.com/johnlcstudios/faceid-based-attendance-payroll.github.io/releases) 
+- Click the Text above to see Latest Code Release
+
+
 # FaceID Attendance & Payroll System
 
 ## Overview
