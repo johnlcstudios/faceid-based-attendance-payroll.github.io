@@ -29,7 +29,7 @@ The **FaceID Attendance & Payroll System** is a web application designed to stre
 To run the application locally, follow these steps:
 
 1. **Download Latest Release**:
-   Download [Latest Release on Releases Page](https://github.com/johnlcstudios/faceid-based-attendance-payroll.github.io/releases)
+   Download [Latest Code Release on Releases Page](https://github.com/johnlcstudios/faceid-based-attendance-payroll.github.io/releases)
 
 2. **Copy Downloaded PHP File to htdocs**:
    Copy index.php file to htdocs folder on XAMPP.
